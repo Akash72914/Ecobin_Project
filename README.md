@@ -133,8 +133,8 @@ The system relies on environment variables or `application.properties`:
 ## 🤝 Contributors
 
 This project is a collaborative effort:
-*   **Ayush**: Lead Developer (Frontend, Backend, & System Architecture)
-*   **[Akash](https://github.com/Akash72914)**: AI Model Development & Neural Engine Integration
+*   **Akash**: AI Model Development & Neural Engine Integration
+*   **[Ayush](https://github.com/ayushcode12)**: Lead Developer (Frontend, Backend, & System Architecture)
 
 ---
 
